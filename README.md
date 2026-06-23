@@ -1,4 +1,4 @@
 # Website-Portofolio
 Tugas Website Portofolio 
 
-https://github.com/Ferdinand0226/website-Portofolio.html/blob/main/portofolio%20rio.html
+https://ferdinand0226.github.io/website-Portofolio.html/portofolio%20rio.html
